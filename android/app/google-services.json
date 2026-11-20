@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43442167077",
+    "project_id": "device-streaming-7565f98a",
+    "storage_bucket": "device-streaming-7565f98a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43442167077:android:95b74cf2c02d5c6dc7cecc",
+        "android_client_info": {
+          "package_name": "com.example.n_hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-W-iEn-w4R3rmTlzx36Z0Dgmn6oAytmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
